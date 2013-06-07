@@ -1,3 +1,1 @@
 This is demo app
-
-More is to come...
