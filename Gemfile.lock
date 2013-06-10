@@ -55,6 +55,7 @@ GEM
     execjs (1.4.0)
       multi_json (~> 1.0)
     ffi (1.8.1)
+    gravtastic (3.2.6)
     hike (1.2.3)
     i18n (0.6.1)
     journey (1.0.4)
@@ -147,6 +148,7 @@ DEPENDENCIES
   bootstrap-sass (= 2.1)
   capybara (= 1.1.2)
   coffee-rails (= 3.2.2)
+  gravtastic
   jquery-rails (= 2.0.2)
   pg (= 0.12.2)
   rails (= 3.2.13)
